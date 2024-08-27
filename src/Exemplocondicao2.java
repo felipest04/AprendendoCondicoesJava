@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Exemplocondicao2 {
 
     //Quero adicionar um desconto gradativo
@@ -14,6 +16,10 @@ public class Exemplocondicao2 {
         // Operadores lógicos
         // && e
         // || ou
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Informe o valor bruto: ");
+        valorBruto = scanner.nextDouble();
 
         if (valorBruto > 1000 && valorBruto <= 2000) {
              desconto = valorBruto * 0.10;
