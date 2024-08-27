@@ -15,16 +15,16 @@ public class Exemplocondicao2 {
         // && e
         // || ou
 
-        if (valorBruto > 1000) {
+        if (valorBruto > 1000 && valorBruto <= 2000) {
              desconto = valorBruto * 0.10;
         }
 
-        else if (valorBruto > 2000) {
+        else if (valorBruto > 2000 && valorBruto < 3000) {
              desconto = valorBruto * (20 / 100);
         }
 
         else if(valorBruto >= 2000){
-             desconto = valorBruto * (30/100);
+             desconto = valorBruto * (30./100);
         }
 
         System.out.println("Valor Bruto é : " + valorBruto);
