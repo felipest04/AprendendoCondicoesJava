@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exemplocondicao2 {
+class ExemploCondicao2 {
 
     //Quero adicionar um desconto gradativo
     //Valor maior que 1000 - 10%

@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36b9a248-0dcf-435b-bfdb-203eff4f9bd6" name="Changes" comment="Criação do projeto java">
+      <change afterPath="$PROJECT_DIR$/src/ExemploScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exemplocondicao2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exemplocondicao2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +30,12 @@
     &quot;assignee&quot;: &quot;felipest04&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/felipest04/AprendendoCondicoesJava.git",
-    "accountId": "b7f99c51-8967-4bda-8ca5-51cedf5978ad"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/felipest04/AprendendoCondicoesJava.git&quot;,
+    &quot;accountId&quot;: &quot;b7f99c51-8967-4bda-8ca5-51cedf5978ad&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -48,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ExemploScanner.executor": "Run",
     "Application.Exemplocondicao2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -61,7 +64,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ExemploScanner">
+    <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExemploScanner" />
+      <module name="AprendendoCondicoesJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exemplocondicao2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exemplocondicao2" />
       <module name="AprendendoCondicoesJava" />
@@ -71,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploScanner" />
         <item itemvalue="Application.Exemplocondicao2" />
       </list>
     </recent_temporary>
@@ -117,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724722481088</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criação do projeto java">
+      <option name="closed" value="true" />
+      <created>1724722857832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724722857832</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,16 +145,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do projeto java" />
     <option name="LAST_COMMIT_MESSAGE" value="Criação do projeto java" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Exemplocondicao2.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
